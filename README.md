@@ -1,6 +1,6 @@
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 Process to migrate to next js
-1- remove react scripts (npm uninstall react-scripts).
+### 1- remove react scripts (npm uninstall react-scripts).
 2- In package.json file remove the old scripts add these new one:
  "scripts": {
     "dev": "next dev",
